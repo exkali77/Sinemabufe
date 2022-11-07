@@ -1,0 +1,10 @@
+C:\Users\sns_k\source\repos\sinama_bufe_satis\sinama_bufe_satis\bin\Debug\sinama_bufe_satis.exe.config
+C:\Users\sns_k\source\repos\sinama_bufe_satis\sinama_bufe_satis\bin\Debug\sinama_bufe_satis.exe
+C:\Users\sns_k\source\repos\sinama_bufe_satis\sinama_bufe_satis\bin\Debug\sinama_bufe_satis.pdb
+C:\Users\sns_k\source\repos\sinama_bufe_satis\sinama_bufe_satis\obj\Debug\sinama_bufe_satis.csproj.AssemblyReference.cache
+C:\Users\sns_k\source\repos\sinama_bufe_satis\sinama_bufe_satis\obj\Debug\sinama_bufe_satis.Form1.resources
+C:\Users\sns_k\source\repos\sinama_bufe_satis\sinama_bufe_satis\obj\Debug\sinama_bufe_satis.Properties.Resources.resources
+C:\Users\sns_k\source\repos\sinama_bufe_satis\sinama_bufe_satis\obj\Debug\sinama_bufe_satis.csproj.GenerateResource.cache
+C:\Users\sns_k\source\repos\sinama_bufe_satis\sinama_bufe_satis\obj\Debug\sinama_bufe_satis.csproj.CoreCompileInputs.cache
+C:\Users\sns_k\source\repos\sinama_bufe_satis\sinama_bufe_satis\obj\Debug\sinama_bufe_satis.exe
+C:\Users\sns_k\source\repos\sinama_bufe_satis\sinama_bufe_satis\obj\Debug\sinama_bufe_satis.pdb
